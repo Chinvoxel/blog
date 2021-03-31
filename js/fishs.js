@@ -1,6 +1,4 @@
-$(window).bind('hashchange', function() {
-  fish();
-});
+fish();
 
 function fish () {
   return (
